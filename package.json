@@ -22,6 +22,9 @@
     "start": "node src/index.js",
     "dev": "env-cmd ./config/dev.env nodemon src/index.js"
   },
+  "engines": {
+    "node": "v11.10.1"
+  },
   "author": "",
   "license": "ISC"
 }
